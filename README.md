@@ -1,5 +1,5 @@
 # Google Trends Financial Modeling
-## Ming Fong and Alexander Yang
+## Alexander Yang and Ming Fong
 
 ## Introduction
 

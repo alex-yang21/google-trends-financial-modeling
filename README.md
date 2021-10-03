@@ -1,8 +1,5 @@
 # Google Trends Financial Modeling
 ## Ming Fong and Alexander Yang
-STAT 198 Quantitative Finance
-
-Fall 2020
 
 ## Introduction
 
